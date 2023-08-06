@@ -1,0 +1,36 @@
+
+.quote{
+    margin-bottom: 0.75rem;
+    font-size: 1.875rem;
+  font-weight: 500;
+}
+.mainClass{
+    padding-top: 7rem;
+
+}
+.planClass{
+    display:flex;
+    width:100%;
+}
+
+
+.planBox {
+    position: relative;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    display: flex;
+    height: 20px;
+    width: calc(100% / 3);
+    cursor: default;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.125rem;
+    background-color: #1746A2;
+    font-weight: 600;
+  }
+
+  
+
+  
+
+  
